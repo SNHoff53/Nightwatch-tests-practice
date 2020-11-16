@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/SNHoff53/Nightwatch-tests-practice#readme",
   "devDependencies": {
+    "chromedriver": "^86.0.0",
     "nightwatch": "^1.5.1"
   }
 }
