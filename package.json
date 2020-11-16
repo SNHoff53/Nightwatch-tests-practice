@@ -1,0 +1,23 @@
+{
+  "name": "Nightwatch-tests-practice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SNHoff53/Nightwatch-tests-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SNHoff53/Nightwatch-tests-practice/issues"
+  },
+  "homepage": "https://github.com/SNHoff53/Nightwatch-tests-practice#readme",
+  "devDependencies": {
+    "nightwatch": "^1.5.1"
+  }
+}
