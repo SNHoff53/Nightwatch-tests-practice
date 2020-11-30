@@ -2,7 +2,7 @@ module.exports = {
     'My first test case'(browser) {
         browser
         .url('https://www.nytimes.com/')
-        .waitForElementVisible('.css-1wjnrbv')
-
+        .waitForElementVisible('css-hnzl8o')
+        .assert.containsText("css-hnzl8o", "Today's Paper");
     }
 }
